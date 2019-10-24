@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SingleScreenApplication</string>
+    <string name="avsh_holdings">AVSH Holdings</string>
+    <string name="contact_information">Contact Information:</string>
+    <string name="_0123255623">0123255623</string>
+    <string name="victoriousmkhonto_gmail_com">victoriousmkhonto@gmail.com</string>
+    <string name="address">Address:</string>
+    <string name="_0083_hatfield_pretoria">0083 Hatfield Pretoria</string>
+    <string name="_1061">1061</string>
+    <string name="south_africa">South Africa</string>
+    <string name="hours_of_operation">Hours of operation:</string>
+    <string name="weekdays_08_00_17_00">Weekdays- 08:00 - 17:00</string>
+    <string name="weekends_08_00_14_00">Weekends- 08:00 - 14:00</string>
+    <string name="public_holidays_closed">Public holidays - closed.</string>
+    <string name="what_we_do">What we do:</string>
+    <string name="we_fix_broken_computers_software_or_hardware_come_in_store_for_quotes">We fix broken computers , software or hardware. Come in store for quotes!</string>
+</resources>
