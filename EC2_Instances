@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-10T10:35:30.770Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="9RBCtZe2ZzqqP149JUDk" version="14.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-10T10:52:26.101Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="yjYP8A4CFEl-A3UaRKKq" version="14.4.6" type="github">
   <diagram id="l3yMzkT8JcaRYKa13_PY" name="Page-1">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -38,6 +38,27 @@
         </mxCell>
         <mxCell id="-VI2oFzNlJz79qkGaJ4F-9" value="Create a key pair to gain access to the server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#095C86;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="660" y="175" width="100" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="-VI2oFzNlJz79qkGaJ4F-15" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#60E696;fillColor=#F694C1;fontSize=14;fontColor=#095C86;" edge="1" parent="1" source="-VI2oFzNlJz79qkGaJ4F-10" target="-VI2oFzNlJz79qkGaJ4F-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-VI2oFzNlJz79qkGaJ4F-10" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeColor=#006EAF;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="60" y="370" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-VI2oFzNlJz79qkGaJ4F-11" value="Get access to the instance&lt;br style=&quot;font-size: 14px;&quot;&gt;" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#ffffff;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="305" y="270" width="65" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-VI2oFzNlJz79qkGaJ4F-12" value="Create an AMI-image" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#095C86;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="100" y="390" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-VI2oFzNlJz79qkGaJ4F-13" value="Create an EC2 instance" style="text;html=1;strokeColor=#A50040;fillColor=#d80073;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="320" y="10" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-VI2oFzNlJz79qkGaJ4F-14" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;sketch=0;strokeColor=#006EAF;fillColor=#1ba1e2;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="260" y="370" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-VI2oFzNlJz79qkGaJ4F-16" value="Sessions Manager(SSM)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontSize=14;fontColor=#095C86;" vertex="1" parent="1">
+          <mxGeometry x="280" y="390" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
